@@ -1,1 +1,1 @@
-This is a keyword and data-driven framework, configure excel sheet and execute main method, we are good to run tests. 
+This is a keyword and data-driven framework, configure excel sheet and execute main method and we are good to run tests. This is also no-code/low-code required framework, where one can easily work on this framework with just having an idea on  how to find web elements and how to work on an excel sheet
